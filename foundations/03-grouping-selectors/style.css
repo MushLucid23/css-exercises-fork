@@ -1,0 +1,15 @@
+<!--remember to use the comma to group the classes>
+.yellow,
+.black {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.yellow {
+    background-color: yellow;
+}
